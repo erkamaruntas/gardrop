@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "Gardırop",
-    "slug": "gardrop",
+    "name": "Outfitn",
+    "slug": "outfitn",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "gardrop",
+    "scheme": "outfitn",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.aruntaserkam.gardrop"
+      "bundleIdentifier": "com.aruntas.outfitn"
     },
     "android": {
       "adaptiveIcon": {
@@ -19,7 +19,7 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "predictiveBackGestureEnabled": false,
-      "package": "com.aruntaserkam.gardrop"
+      "package": "com.aruntas.outfitn"
     },
     "web": {
       "output": "server",

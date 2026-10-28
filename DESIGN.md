@@ -1,6 +1,6 @@
 # Tasarım dili
 
-Gardırop **minimal ve sakin** bir uygulamadır. Arayüz geri çekilir, kıyafetler öne çıkar.
+Outfitn **minimal ve sakin** bir uygulamadır. Arayüz geri çekilir, kıyafetler öne çıkar.
 
 ## İlkeler
 
