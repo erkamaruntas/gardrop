@@ -8,6 +8,10 @@ Expo ships breaking changes every SDK release. APIs you remember are likely rena
 2. Fetch the matching versioned docs: `https://docs.expo.dev/versions/v<major>.0.0/`
 3. For anything else, fetch https://docs.expo.dev/llms.txt — an index of all Expo docs with corrections to common LLM misconceptions. Follow its links to the specific page you need; never answer from memory.
 
+## Design
+
+All UI follows [DESIGN.md](DESIGN.md): monochrome UI (color comes only from clothing photos), colors only via tokens in `src/constants/theme.ts`, user-facing copy in friendly Turkish ("sen").
+
 ## Commands
 
 Use `bunx` instead of `npx` if the project uses bun (`bun.lock` present).
